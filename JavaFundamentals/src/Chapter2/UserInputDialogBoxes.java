@@ -26,9 +26,5 @@ public class UserInputDialogBoxes {
                 "\nAge: " + age + "\nHeight: " + height + "\nSalary: " + salary);
 
 
-
-
-
-
     }
 }

@@ -8,7 +8,6 @@ public class NestedWhileLoop {
         int outCount = 1;
 
         while (outCount <= 3){//outer loop
-
             int inCount = 2;
             while (inCount <= 10){
                 System.out.print(inCount + " ");
@@ -17,6 +16,5 @@ public class NestedWhileLoop {
             System.out.println();
             outCount += 1;
         }
-
     }
 }
